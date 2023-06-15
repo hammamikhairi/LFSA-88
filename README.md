@@ -11,6 +11,7 @@ A challenge to make 88 projects in idk how long. Most of the projects will be wr
 5. (30/03/2023) [![GitHub stars](https://img.shields.io/github/stars/hammamikhairi/web-scraping-with-multiprocessing?style=social)](https://github.com/hammamikhairi/web-scraping-with-multiprocessing/stargazers/) [Web scraping with multiprocessing using python.](https://github.com/hammamikhairi/web-scraping-with-multiprocessing)
 6. (06/05/2023) [![GitHub stars](https://img.shields.io/github/stars/hammamikhairi/Virtual-Treasure-Hunt?style=social)](https://github.com/hammamikhairi/Virtual-Treasure-Hunt/stargazers/) [My Virtual Treasure Hunt (Next.js && Golang).](https://github.com/hammamikhairi/Virtual-Treasure-Hunt)
 7. (20/05/2023) [![GitHub stars](https://img.shields.io/github/stars/hammamikhairi/nlp-project?style=social)](https://github.com/hammamikhairi/nlp-project/stargazers/) [Using NLP to determine the public's opinion about CHAT-GPT.](https://github.com/hammamikhairi/nlp-project)
+8. (15/06/2023) [![GitHub stars](https://img.shields.io/github/stars/hammamikhairi/Wave-Function-Collapse?style=social)](https://github.com/hammamikhairi/Wave-Function-Collapse/stargazers/) [Wave Function Collapse using Golang.](https://github.com/hammamikhairi/Wave-Function-Collapse)
 
 ### Join Me
 
