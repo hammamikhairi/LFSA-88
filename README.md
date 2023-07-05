@@ -1,8 +1,8 @@
 # LFSA 88
 
-A challenge to make 88 projects in idk how long. Most of the projects will be written in [Golang](https://go.dev/) (hopefully).
+A challenge to make 88 projects in idk how long.
 
-### Progress ( last update : 28/01/2023 )
+### Progress ( last update : 05/07/2023 )
 
 1. (11/11/2022) [![GitHub stars](https://img.shields.io/github/stars/hammamikhairi/Radix-Tree?style=social)](https://github.com/hammamikhairi/Radix-Tree/stargazers/) [Radix Tree implementation using Golang.](https://github.com/hammamikhairi/Radix-Tree)
 2. (26/11/2022) [![GitHub stars](https://img.shields.io/github/stars/hammamikhairi/Decision-Tree?style=social)](https://github.com/hammamikhairi/Decision-Tree/stargazers/) [Decision Tree implementation using Golang.](https://github.com/hammamikhairi/Decision-Tree)
@@ -13,6 +13,7 @@ A challenge to make 88 projects in idk how long. Most of the projects will be wr
 7. (06/05/2023) [![GitHub stars](https://img.shields.io/github/stars/hammamikhairi/Virtual-Treasure-Hunt?style=social)](https://github.com/hammamikhairi/Virtual-Treasure-Hunt/stargazers/) [My Virtual Treasure Hunt (Next.js && Golang).](https://github.com/hammamikhairi/Virtual-Treasure-Hunt)
 8. (20/05/2023) [![GitHub stars](https://img.shields.io/github/stars/hammamikhairi/nlp-project?style=social)](https://github.com/hammamikhairi/nlp-project/stargazers/) [Using NLP to determine the public's opinion about CHAT-GPT.](https://github.com/hammamikhairi/nlp-project)
 9. (15/06/2023) [![GitHub stars](https://img.shields.io/github/stars/hammamikhairi/Wave-Function-Collapse?style=social)](https://github.com/hammamikhairi/Wave-Function-Collapse/stargazers/) [Wave Function Collapse using Golang.](https://github.com/hammamikhairi/Wave-Function-Collapse)
+10. (05/07/2023) [![GitHub stars](https://img.shields.io/github/stars/hammamikhairi/langfuck?style=social)](https://github.com/hammamikhairi/langfuck/stargazers/) [A command-line tool that obfuscates source code while preserving functionality.](https://github.com/hammamikhairi/langfuck)
 
 ### Join Me
 
