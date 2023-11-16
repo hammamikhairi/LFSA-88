@@ -14,6 +14,7 @@ A challenge to make 88 projects in idk how long.
 8. (20/05/2023) [![GitHub stars](https://img.shields.io/github/stars/hammamikhairi/nlp-project?style=social)](https://github.com/hammamikhairi/nlp-project/stargazers/) [Using NLP to determine the public's opinion about CHAT-GPT.](https://github.com/hammamikhairi/nlp-project)
 9. (15/06/2023) [![GitHub stars](https://img.shields.io/github/stars/hammamikhairi/Wave-Function-Collapse?style=social)](https://github.com/hammamikhairi/Wave-Function-Collapse/stargazers/) [Wave Function Collapse using Golang.](https://github.com/hammamikhairi/Wave-Function-Collapse)
 10. (05/07/2023) [![GitHub stars](https://img.shields.io/github/stars/hammamikhairi/langfuck?style=social)](https://github.com/hammamikhairi/langfuck/stargazers/) [A command-line tool that obfuscates source code while preserving functionality.](https://github.com/hammamikhairi/langfuck)
+11. (01/10/2023) [![GitHub stars](https://img.shields.io/github/stars/hammamikhairi/neural-network?style=social)](https://github.com/hammamikhairi/neural-network/stargazers/) [A neural network library developed from scratch for personal learning and experimentation purposes.](https://github.com/hammamikhairi/neural-network)
 
 ### Join Me
 
