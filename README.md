@@ -2,7 +2,7 @@
 
 A challenge to make 88 projects in idk how long.
 
-### Progress ( last update : 05/07/2023 )
+### Progress ( last update : 21/07/2024 )
 
 1. (11/11/2022) [![GitHub stars](https://img.shields.io/github/stars/hammamikhairi/Radix-Tree?style=social)](https://github.com/hammamikhairi/Radix-Tree/stargazers/) [Radix Tree implementation using Golang.](https://github.com/hammamikhairi/Radix-Tree)
 2. (26/11/2022) [![GitHub stars](https://img.shields.io/github/stars/hammamikhairi/Decision-Tree?style=social)](https://github.com/hammamikhairi/Decision-Tree/stargazers/) [Decision Tree implementation using Golang.](https://github.com/hammamikhairi/Decision-Tree)
@@ -15,6 +15,7 @@ A challenge to make 88 projects in idk how long.
 9. (15/06/2023) [![GitHub stars](https://img.shields.io/github/stars/hammamikhairi/Wave-Function-Collapse?style=social)](https://github.com/hammamikhairi/Wave-Function-Collapse/stargazers/) [Wave Function Collapse using Golang.](https://github.com/hammamikhairi/Wave-Function-Collapse)
 10. (05/07/2023) [![GitHub stars](https://img.shields.io/github/stars/hammamikhairi/langfuck?style=social)](https://github.com/hammamikhairi/langfuck/stargazers/) [A command-line tool that obfuscates source code while preserving functionality.](https://github.com/hammamikhairi/langfuck)
 11. (01/10/2023) [![GitHub stars](https://img.shields.io/github/stars/hammamikhairi/neural-network?style=social)](https://github.com/hammamikhairi/neural-network/stargazers/) [A neural network library developed from scratch for personal learning and experimentation purposes.](https://github.com/hammamikhairi/neural-network)
+12. (21/07/2024) [![GitHub stars](https://img.shields.io/github/stars/hammamikhairi/dns-server?style=social)](https://github.com/hammamikhairi/dns-server/stargazers/) [A DNS Server from scratch in golang.](https://github.com/hammamikhairi/dns-server)
 
 ### Join Me
 
